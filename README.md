@@ -4,6 +4,8 @@ This's a demonstration of my Android's skills set.
 # Getting Started
 * Checkout the "main" branch for demonstration purpose
 
+## Features
+* Display GIF images
 
 ## Contributing
 
