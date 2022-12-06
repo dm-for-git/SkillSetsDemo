@@ -10,7 +10,11 @@ import android.util.Log
 import android.view.View
 import java.io.FileNotFoundException
 import java.io.InputStream
-
+/*
+* !!!---NOTE---!!!
+* From API 28 and above, please change to use
+* https://developer.android.com/reference/kotlin/android/graphics/drawable/AnimatedImageDrawable
+* */
 
 @Suppress("DEPRECATION")
 class GifImageView : View {
